@@ -1,0 +1,1 @@
+This is not the answers to the questions, but how to solve the problems of each question to make it workable
